@@ -1,0 +1,6 @@
+{
+  "name": "crypto-js",
+  "version": "1.0.0",
+  "description": "Шифрование и дешифрование файлов в папке и вложенных подпапках (AES-256, Node.js)",
+  "main": "index.js"
+}
